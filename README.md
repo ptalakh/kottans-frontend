@@ -46,7 +46,7 @@ Than I read about markdown and completed [Communicating Using Markdown](https://
 
 However, I had some problems when I sent pull-request to [mock-repo](https://github.com/Kottans/mock-repo).
 
-## Linux CLI and HTTP
+## 1. Linux CLI and HTTP
 Completed [Linux Tutorial Introduction](https://linuxsurvival.com/linux-tutorial-introduction/) course. It was really cool, I liked it a lot! Now I know main Linux commands.
 <details>
   <summary>Quiz Number 1</summary>
@@ -67,7 +67,7 @@ Completed [Linux Tutorial Introduction](https://linuxsurvival.com/linux-tutorial
 
 Than I read this article about HTTP: [Part 1](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177) and [Part 2](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155). To be honest I found this article a quite complicated and confusing.
 
-## VCS (hello gitty), GitHub and Collaboration
+## 2. VCS (hello gitty), GitHub and Collaboration
 Listened last two weeks of [Introduction to Git and Github](https://www.coursera.org/learn/introduction-git-github). Learned a lot of information about working with remote repositories, solving conflicts and collaborating with other developers. All the material was well presented, such as before. Also the practical examples were shown very well, there was a feeling like it was shown a work on the real project.
 <details>
   <summary>Week 3</summary>
