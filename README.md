@@ -13,7 +13,7 @@
 ### Front-End Basics
 
 - [x] Intro to HTML & CSS
-- [ ] Responsive Web Design
+- [x] Responsive Web Design
 - [ ] HTML & CSS Practice
 - [ ] JavaScript Basics
 - [ ] Document Object Model - practice
@@ -137,3 +137,25 @@ Than I passed two courses: [Learn HTML](https://www.codecademy.com/learn/learn-h
 </details>
 
 ---
+
+## 4. Responsive Web Design
+
+Read the article [Responsive web design basics](https://web.dev/i18n/en/responsive-web-design-basics/). Very useful information on how to create responsive websites.
+
+Watched Flexbox playlist: [FLEXBOX. Вчимося верстати на флексах](https://www.youtube.com/playlist?list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x). Yevhen Andrikanych is the person from whose lessons I started to learn frontend development. The greatest presentation of the material. Watching these videos gave me good understanding of how to work with flexbox.
+
+Passed the game [Flexbox Froggy](http://flexboxfroggy.com/). Very cool and funny game to learn how flexbox works.
+
+<details>
+  <summary>Flexbox Froggy</summary>
+  <img src="https://github.com/ptalakh/kottans-frontend/blob/main/task_responsive_web_design/flexboxfroggy.jpg">
+</details>
+
+Watched Grid Layout playlist: [CSS Grid Layout](https://www.youtube.com/watch?v=GV92IdMGFfA&list=PLM6XATa8CAG5pXQrW_kDaeZb_uIAMNZIm). Another perfect course from Yevhen Andrikanych. Learning grid was a little harder for me than learning flexbox, because there are a lot of properties used to control grid tables.
+
+Passed the game [Grid Garden](http://cssgridgarden.com/). Great game to learn how grid works. Some levels gave me a couple of difficulties, but it was also cool experience.
+
+<details>
+  <summary>Grid Garden</summary>
+  <img src="https://github.com/ptalakh/kottans-frontend/blob/main/task_responsive_web_design/gridgarden.jpg">
+</details>
